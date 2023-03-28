@@ -1,5 +1,5 @@
-
-.box_pro_pk {
-    float: left;
-    background-image: url('/public/assets/bg.jpg');   
-}
+ @media (min-width: 62em){
+    .img-pk{
+        text-align: center;
+    }
+ }

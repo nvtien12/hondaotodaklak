@@ -98,7 +98,7 @@ export default class Images extends Component {
               {this.renderCar360()}
               <div id="carDefault">
                 <ThreeSixty
-                  amount={6}
+                  amount={8}
                   imagePath={`../assets/crv-blue`}
                   fileName="car-{index}.png"
                 />

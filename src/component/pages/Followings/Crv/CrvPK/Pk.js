@@ -4,11 +4,14 @@ import './pk.css';
 export default function Pk() {
     return (
         <div className="box_pro_pk" id="pk">
-            <div className="pro_detail_title">
-                <label className="pro_detail_title_text">
-                    <h2> PHỤ KIỆN </h2>
-                </label>
-            </div>
+           <div className="card text-bg-dark">
+                <img src="../assets/crv/operate.jpg" className="card-img" alt="..." />
+                <div className="card-img-overlay">
+                    <div className="img-pk">
+                        <h1>PHỤ KIỆN CHÍNH HÃNG</h1>
+                    </div>
+                </div>
+                </div>
             <div className="box_content_pro">
                 <figure className="table">
                     <table>
@@ -18,15 +21,15 @@ export default function Pk() {
                                     <figure
                                         className="image"
                                         data-fancybox="gallery_content"
-                                        data-caption="Honda Accord - "
-                                        href="../assets/nep-buoc-chan-phat-sang-phia-truoc-sau-phu-kien-rk1sortd.jpg"
+                                        data-caption="Honda Crv- "
+                                        href="../assets/crv/foot-support.png"
                                     >
                                         <img
-                                            src="../assets/nep-buoc-chan-phat-sang-phia-truoc-sau-phu-kien-rk1sortd.jpg"
+                                            src="../assets/crv/foot-support.png"
                                             alt=""
                                         />
                                         <figcaption>
-                                            <p>Nẹp bước chân phát sáng phía trước sau </p>
+                                            <p>Nẹp bước chân phát sáng.</p>
                                         </figcaption>
                                     </figure>
                                 </td>
@@ -34,12 +37,12 @@ export default function Pk() {
                                     <figure
                                         className="image"
                                         data-fancybox="gallery_content"
-                                        data-caption="Honda Accord - "
-                                        href="../assets/trai-cop-sau-phu-kien-oiigzdqp.jpg"
+                                        data-caption="Honda Crv- "
+                                        href="../assets/crv/foot-support.png"
                                     >
-                                        <img src="../assets/trai-cop-sau-phu-kien-oiigzdqp.jpg" alt="" />
+                                        <img src="../assets/crv/foot-support.png" alt="" />
                                         <figcaption>
-                                            <p>Trải cốp sau </p>
+                                            <p>Thanh đỡ bước chân. </p>
                                         </figcaption>
                                     </figure>
                                 </td>
@@ -47,12 +50,12 @@ export default function Pk() {
                                     <figure
                                         className="image"
                                         data-fancybox="gallery_content"
-                                        data-caption="Honda Accord - "
-                                        href="../assets/vien-che-mua-phu-kien-oyvng3v9.jpg"
+                                        data-caption="Honda Crv- "
+                                        href="../assets/crv/car-lights.jpg"
                                     >
-                                        <img src="../assets/vien-che-mua-phu-kien-oyvng3v9.jpg" alt="" />
+                                        <img src="../assets/crv/car-lights.jpg" alt="" />
                                         <figcaption>
-                                            <p>Viền che mưa </p>
+                                            <p>Đèn sàn xe độc đáo. </p>
                                         </figcaption>
                                     </figure>
                                 </td>
@@ -68,12 +71,81 @@ export default function Pk() {
                                     <figure
                                         className="image"
                                         data-fancybox="gallery_content"
-                                        data-caption="Honda Accord - "
-                                        href="../assets/tham-trai-san-phu-kien-dychxnon.jpg"
+                                        data-caption="Honda Crv- "
+                                        href="../assets/crv/chrome-tail-brace.png"
                                     >
-                                        <img src="../assets/tham-trai-san-phu-kien-dychxnon.jpg" alt="" />
+                                        <img src="../assets/crv/chrome-tail-brace.png" alt="" />
                                         <figcaption>
-                                            <p>Thảm trải sàn </p>
+                                            <p>Nẹp đuôi xe mạ crôm. </p>
+                                        </figcaption>
+                                    </figure>
+                                </td>
+                                <td>
+                                    <figure
+                                        className="image"
+                                        data-fancybox="gallery_content"
+                                        data-caption="Honda Crv- "
+                                        href="../assets/crv/cover-trunk.jpg"
+                                    >
+                                        <img src="../assets/crv/cover-trunk.jpg" alt="" />
+                                        <figcaption>
+                                            <p>Trải cốp sau. </p>
+                                        </figcaption>
+                                    </figure>
+                                </td>
+                                <td>
+                                    <figure
+                                        className="image"
+                                        data-fancybox="gallery_content"
+                                        data-caption="Honda Crv- "
+                                        href="../assets/crv/car-tarpaulin.jpg"
+                                    >
+                                        <img src="../assets/crv/car-tarpaulin.jpg" alt="" />
+                                        <figcaption>
+                                            <p>Bạt phủ xe. </p>
+                                        </figcaption>
+                                    </figure>
+                                </td>
+                            </tr>
+                        </tbody>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <figure
+                                        className="image"
+                                        data-fancybox="gallery_content"
+                                        data-caption="Honda Crv- "
+                                        href="../assets/crv/handle-protection-plate.png"
+                                    >
+                                        <img src="../assets/crv/handle-protection-plate.png" alt="" />
+                                        <figcaption>
+                                            <p>Tấm bảo vệ tay nắm cửa. </p>
+                                        </figcaption>
+                                    </figure>
+                                </td>
+                                <td>
+                                    <figure
+                                        className="image"
+                                        data-fancybox="gallery_content"
+                                        data-caption="Honda Crv- "
+                                        href="../assets/crv/rain-cover.jpg"
+                                    >
+                                        <img src="../assets/crv/rain-cover.jpg" alt="" />
+                                        <figcaption>
+                                            <p>Viền che mưa. </p>
+                                        </figcaption>
+                                    </figure>
+                                </td>
+                                <td>
+                                    <figure
+                                        className="image"
+                                        data-fancybox="gallery_content"
+                                        data-caption="Honda Crv- "
+                                        href="../assets/crv/floor-mats.png"
+                                    >
+                                        <img src="../assets/crv/floor-mats.png" alt="" />
+                                        <figcaption>
+                                            <p>Thảm trải sàn. </p>
                                         </figcaption>
                                     </figure>
                                 </td>
