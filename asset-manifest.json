@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hondaotodaklak/static/css/main.7abce17b.css",
-    "main.js": "/hondaotodaklak/static/js/main.f953cf25.js",
+    "main.css": "/hondaotodaklak/static/css/main.ab73bf47.css",
+    "main.js": "/hondaotodaklak/static/js/main.157c5a5f.js",
     "static/js/651.ab7e9f69.chunk.js": "/hondaotodaklak/static/js/651.ab7e9f69.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/hondaotodaklak/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/hondaotodaklak/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,12 +10,12 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/hondaotodaklak/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/hondaotodaklak/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/hondaotodaklak/index.html",
-    "main.7abce17b.css.map": "/hondaotodaklak/static/css/main.7abce17b.css.map",
-    "main.f953cf25.js.map": "/hondaotodaklak/static/js/main.f953cf25.js.map",
+    "main.ab73bf47.css.map": "/hondaotodaklak/static/css/main.ab73bf47.css.map",
+    "main.157c5a5f.js.map": "/hondaotodaklak/static/js/main.157c5a5f.js.map",
     "651.ab7e9f69.chunk.js.map": "/hondaotodaklak/static/js/651.ab7e9f69.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7abce17b.css",
-    "static/js/main.f953cf25.js"
+    "static/css/main.ab73bf47.css",
+    "static/js/main.157c5a5f.js"
   ]
 }
